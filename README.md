@@ -256,11 +256,14 @@
 <!-- ============================================================ -->
 
 <!-- ============================================================ -->
-<!--                  ACTIVITY GRAPH & WAKATIME                   -->
+<!--                  3D CALENDAR & WAKATIME                      -->
 <!-- ============================================================ -->
 <div align="center">
-  <h3>🔥 Activity Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhavxchaturvedi&bg_color=00000000&color=A8E6CF&line=1B443B&point=C29235&hide_border=true" alt="Activity Graph" width="100%" />
+  <h3>🔥 3D Contribution Calendar</h3>
+  <!-- Note: Requires github action to generate 3d graph -->
+  <picture>
+    <img src="https://raw.githubusercontent.com/madhavxchaturvedi/madhavxchaturvedi/main/profile-3d-contrib/profile-theme.svg" alt="3D Contribution Calendar" width="700" />
+  </picture>
 </div>
 
 
