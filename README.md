@@ -240,12 +240,12 @@
 <!--               STREAK STATS & GITHUB SUMMARY                  -->
 <!-- ============================================================ -->
 <div align="center">
-  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhavxchaturvedi&theme=dark&bg_color=0d1117&title_color=358572&text_color=ffffff&icon_color=358572"/>
-  <img height="158em" src="https://streak-stats.demolab.com?user=madhavxchaturvedi&background=0d1117&border=0d1117&stroke=358572&ring=358572&fire=358572&currStreakNum=ffffff&currStreakLabel=358572&sideNums=ffffff&sideLabels=ffffff&dates=358572&border_radius=10" alt="GitHub Streak"/>
+  <img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=madhavxchaturvedi&theme=dark&bg_color=0d1117&title_color=358572&text_color=ffffff&icon_color=358572&hide_border=true"/>
+  <img height="158em" src="https://streak-stats.demolab.com?user=madhavxchaturvedi&background=0d1117&border=0d1117&stroke=358572&ring=358572&fire=358572&currStreakNum=ffffff&currStreakLabel=358572&sideNums=ffffff&sideLabels=ffffff&dates=358572&border_radius=10&hide_border=true" alt="GitHub Streak"/>
   <br>
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhavxchaturvedi&theme=dark&bg_color=0d1117&title_color=358572&text_color=ffffff&icon_color=358572"/>
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhavxchaturvedi&theme=dark&bg_color=0d1117&title_color=358572&text_color=ffffff&icon_color=358572"/>
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=madhavxchaturvedi&theme=dark&bg_color=0d1117&title_color=358572&text_color=ffffff&icon_color=358572&utcOffset=5.5"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=madhavxchaturvedi&theme=dark&bg_color=0d1117&title_color=358572&text_color=ffffff&icon_color=358572&hide_border=true"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=madhavxchaturvedi&theme=dark&bg_color=0d1117&title_color=358572&text_color=ffffff&icon_color=358572&hide_border=true"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=madhavxchaturvedi&theme=dark&bg_color=0d1117&title_color=358572&text_color=ffffff&icon_color=358572&utcOffset=5.5&hide_border=true"/>
 </div>
 
 <!-- Divider -->
