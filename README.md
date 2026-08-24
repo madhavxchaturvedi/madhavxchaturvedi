@@ -271,8 +271,14 @@
 <!-- ============================================================ -->
 <!--                            FOOTER                            -->
 <!-- ============================================================ -->
+<!-- Divider -->
+<div align="center">
+  <img src="images/divider-animated.gif" alt="Divider" width="100%"/>
+</div>
+
 <p align="center">
-<br>
+  <img src="images/main-banner.png" alt="Footer Banner" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -281,16 +287,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=madhavxchaturvedi&color=194A48&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
-
-
-<br>
-<p align="center">
-  <img src="images/main-banner.png" alt="Footer Banner" width="100%" />
-</p>
-
-<p align="center">
   <img src="images/footer-logo-clean.png" alt="Footer Logo" width="120" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=madhavxchaturvedi&color=194A48&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
