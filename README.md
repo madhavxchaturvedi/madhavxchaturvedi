@@ -256,13 +256,11 @@
 <!-- ============================================================ -->
 
 <!-- ============================================================ -->
-<!--                  3D CALENDAR & WAKATIME                      -->
+<!--                  ACTIVITY GRAPH & WAKATIME                   -->
 <!-- ============================================================ -->
 <div align="center">
-  <h3>🔥 3D Contribution Calendar</h3>
-  <picture>
-    <img src="https://raw.githubusercontent.com/madhavxchaturvedi/madhavxchaturvedi/main/profile-3d-contrib/profile-theme.svg" alt="3D Contribution Calendar" width="700" />
-  </picture>
+  <h3>🔥 Activity Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=madhavxchaturvedi&bg_color=00000000&color=A8E6CF&line=1B443B&point=C29235&hide_border=true" alt="Activity Graph" width="100%" />
 </div>
 
 
@@ -275,7 +273,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A8E6CF&center=true&vCenter=true&width=600&lines=Building+full-stack+web+%26+mobile+apps;Exploring+AI+%2F+ML+%26+data+science;Aim+for+the+Stars!+✨;Welcome+to+my+Github+Space!+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A8E6CF&center=true&vCenter=true&width=600&lines=Building+full-stack+web+%26+mobile+apps;Exploring+AI+%2F+ML+%26+data+science;Aim+for+the+Stars!+%E2%9C%A8;Welcome+to+my+Github+Space!+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
