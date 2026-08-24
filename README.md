@@ -288,5 +288,9 @@
 
 <br>
 <p align="center">
+  <img src="images/main-banner.png" alt="Footer Banner" width="100%" />
+</p>
+
+<p align="center">
   <img src="images/footer-logo-clean.png" alt="Footer Logo" width="120" />
 </p>
