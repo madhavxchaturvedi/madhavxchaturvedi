@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="6">
+  <defs>
+    <style>
+      @keyframes run {
+        0% { transform: translateX(-100%); }
+        100% { transform: translateX(100%); }
+      }
+      .laser {
+        animation: run 2s linear infinite;
+      }
+    </style>
+    <linearGradient id="laserGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#194A48" stop-opacity="0" />
+      <stop offset="50%" stop-color="#A8E6CF" stop-opacity="1" />
+      <stop offset="100%" stop-color="#194A48" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background track -->
+  <rect width="100%" height="6" fill="#194A48" rx="3" opacity="0.3" />
+
+  <!-- Moving laser -->
+  <g class="laser">
+    <rect width="100%" height="6" fill="url(#laserGrad)" rx="3" />
+  </g>
+</svg>
