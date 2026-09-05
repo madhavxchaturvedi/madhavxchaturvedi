@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="images/info-box.png" alt="Info Box" width="100%" />
+  <img src="images/info-box-v2.png" alt="Info Box" width="100%" />
 </p>
 
 <!-- ============================================================ -->
